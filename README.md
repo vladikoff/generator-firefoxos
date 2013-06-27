@@ -1,1 +1,1 @@
-# generator-firefoxos
+# generator-fxos

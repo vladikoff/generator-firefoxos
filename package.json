@@ -1,22 +1,26 @@
 {
-  "name": "generator-firefoxos",
+  "name": "generator-fxos",
   "version": "0.1.0",
-  "description": "Firefox OS Generator for grunt-firefoxos",
-  "main": "index.js",
+  "description": "Firefox OS Generator for grunt-fxos",
+  "main": "app/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vladikoff/generator-firefoxos"
+    "url": "https://github.com/vladikoff/generator-fxos"
   },
   "keywords": [
     "yeoman-generator",
     "generator-yeoman"
   ],
+  "dependencies": {
+    "yeoman-generator": "~0.12.1",
+    "cheerio": "~0.10.8"
+  },
   "author": "vladikoff",
   "license": "BSD",
   "bugs": {
-    "url": "https://github.com/vladikoff/generator-firefoxos/issues"
+    "url": "https://github.com/vladikoff/generator-fxos/issues"
   }
 }

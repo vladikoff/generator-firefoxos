@@ -1,0 +1,8 @@
+{
+  paths: [
+    {
+      name: 'EXAMPLE_COMMAND'
+      path: 'PATH_TO_EXAMPLE_COMMAND'
+    }
+  ]
+}
