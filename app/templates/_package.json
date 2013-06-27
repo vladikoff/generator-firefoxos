@@ -4,6 +4,7 @@
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
+    "grunt-fxos": "~0.1.1",
     "matchdep": "~0.1.1"
   },
   "engines": {
